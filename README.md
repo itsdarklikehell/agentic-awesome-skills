@@ -806,3 +806,11 @@ Original code and tooling are licensed under the MIT License. See [LICENSE](LICE
 Original documentation and other non-code written content are licensed under [CC BY 4.0](LICENSE-CONTENT), unless a more specific upstream notice says otherwise. See [docs/sources/sources.md](docs/sources/sources.md) for attributions and third-party license details.
 
 ---
+
+---
+
+## Gource Visualization
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/agentic-awesome-skills/main/gource/agentic-awesome-skills-gource.mp4" controls width="100%"></video>
+
+*De ontwikkelgeschiedenis van deze repository, gegeneerd met [Gource](https://github.com/acaudwell/Gource). De video wordt elke push bijgewerkt via de [Gource workflow](.github/workflows/gource.yml).*

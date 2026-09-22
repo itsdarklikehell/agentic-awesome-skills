@@ -60,3 +60,8 @@ skills/spline-3d-integration/*.zip
 # Temporary plugin staging directories
 plugins/.antigravity-awesome-skills.staging-*/
 gource.mp4
+
+# Gource generated artifacts
+gource/ppm.ppm
+gource/*-gource.mp4
+gource-*.mp4
