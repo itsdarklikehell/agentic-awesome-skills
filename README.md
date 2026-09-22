@@ -42,6 +42,12 @@ This is an independent community project. It is not affiliated with, sponsored b
 [![OpenCode](https://img.shields.io/badge/OpenCode-CLI-gray?style=for-the-badge)](https://github.com/opencode-ai/opencode)
 [![Antigravity](https://img.shields.io/badge/Antigravity-AI%20IDE-red?style=for-the-badge)](https://github.com/sickn33/agentic-awesome-skills)
 
+## Project Visualization
+
+[![Gource Video](https://img.shields.io/badge/View-Gource-Video-brightgreen)](./gource/agentic-awesome-skills-gource.mp4)
+
+[ ![Gource](./gource/agentic-awesome-skills-gource.png) ](./gource/agentic-awesome-skills-gource.mp4)
+
 ## Support the Project
 
 **We’re looking for sponsors to support Agentic Awesome Skills.** If you or your company would like to support the project, become a sponsor.
