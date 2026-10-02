@@ -1,6 +1,13 @@
 <!-- registry-sync: version=17.4.0; skills=2125; stars=46490; updated_at=2026-09-16T16:59:38+00:00 -->
 # AAS Core — Agentic Awesome Skills
 
+[![CI](https://github.com/itsdarklikehell/agentic-awesome-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/agentic-awesome-skills/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/agentic-awesome-skills/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/agentic-awesome-skills/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/agentic-awesome-skills)](https://github.com/itsdarklikehell/agentic-awesome-skills/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/agentic-awesome-skills)](https://github.com/itsdarklikehell/agentic-awesome-skills/pulls)
+
+
 > **Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can review and reuse.**
 
 **Current release: V17.4.0.** This release includes AAS Core for complete local catalog search, agent-owned selection, manifest validation, planning, and diagnosis. Apply and recovery remain experimental and outside the supported preview path.
