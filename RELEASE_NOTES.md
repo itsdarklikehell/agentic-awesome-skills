@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (7c5ae8032)
 * docs: add README badges (c1d0eb196)
 * chore: add GitHub templates and workflows (7e9bb7e65)
 * ci: add root-level gource.mp4 symlink for fleet check compatibility (06af0f264)
@@ -21,4 +22,3 @@
 * fix(web): ignore stale catalog refresh results (#1459) (cae3ab1a7)
 * feat: update SEO-AEO skills with audit-first growth workflow (#1460) (8ceef051c)
 * chore: ignore gource artifacts (6a4a83492)
-* docs: update to official Atlas Cloud svg badge (#1458) (9ec88b27b)
